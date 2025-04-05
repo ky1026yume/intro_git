@@ -1,5 +1,6 @@
 gitadd
 gitcommit
+git status
 
 
 上記を追加
