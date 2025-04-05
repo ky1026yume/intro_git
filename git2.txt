@@ -1,0 +1,5 @@
+gitadd
+gitcommit
+
+
+上記を追加
