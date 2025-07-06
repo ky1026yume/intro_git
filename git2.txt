@@ -2,6 +2,7 @@ gitadd
 gitcommit
 git status
 git diff
+git pull
 
 
 上記を追加
